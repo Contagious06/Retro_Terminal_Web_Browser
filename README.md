@@ -15,7 +15,7 @@ How to Run
 7.  Paramaters: URL browserWidth browserHeight consoleWidth consoleHeight
 
 TIPS:
-* Using a smaller font size decreases the pixel size
+* Using a smaller font size, it decreases the pixel size.
 * Ensure that the console width/height is less than browser height/width
 * Ensure that your console is big enough - the consoles character width height need to be less or equal to the specified console width/height or funky stuff may happen...
 
